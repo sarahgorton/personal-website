@@ -355,8 +355,8 @@ a:hover, a:active, a:focus {
   padding-left: 0;
 }
 
-#home .sgorton-img {
-  background: url('../images/sgorton-img.jpg') no-repeat;
+#home .home-img {
+  background: url('../images/home-img.jpg') no-repeat;
 	#  images/sgorton-imgjpg
   background-size: cover;
   background-position: 50% 50%;
