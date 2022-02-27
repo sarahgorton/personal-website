@@ -356,7 +356,8 @@ a:hover, a:active, a:focus {
 }
 
 #home .sgorton-img {
-  background: url('../images/sgorton-img.jpg') no-repeat;
+  background: url('/Users/sarah/Documents/GitHub/images/sgorton-img.jpg') no-repeat;
+	#  images/sgorton-imgjpg
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
