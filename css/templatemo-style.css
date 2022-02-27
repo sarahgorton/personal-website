@@ -21,7 +21,7 @@ html,body {
 
 
 /*---------------------------------------
-    Typorgraphy              
+    Typorgraphy
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -121,7 +121,7 @@ p {
 }
 
 #home .container,
-#about .container, 
+#about .container,
 #experience .container,
 #service .container,
 #education .container,
@@ -183,7 +183,7 @@ footer {
 
 
 /*---------------------------------------
-    General               
+    General
 -----------------------------------------*/
 
 html{
@@ -218,7 +218,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Preloader section              
+    Preloader section
 -----------------------------------------*/
 
 .preloader {
@@ -268,7 +268,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Navigation section              
+    Navigation section
 -----------------------------------------*/
 
 .custom-navbar {
@@ -328,7 +328,7 @@ a:hover, a:active, a:focus {
     .custom-navbar {
         padding: 12px 0;
         border-bottom: 0;
-        background: 0 0; 
+        background: 0 0;
     }
     .custom-navbar.top-nav-collapse {
         background: #ffffff;
@@ -341,7 +341,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Home section              
+    Home section
 -----------------------------------------*/
 
 #home h1 {
@@ -355,8 +355,8 @@ a:hover, a:active, a:focus {
   padding-left: 0;
 }
 
-#home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+#home .sgorton-img {
+  background: url('../images/sgorton-img.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -379,7 +379,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   About section              
+   About section
 -----------------------------------------*/
 
 #about .about-img {
@@ -412,7 +412,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Service section              
+    Service section
 -----------------------------------------*/
 
 #service {
@@ -436,7 +436,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Experience section              
+    Experience section
 -----------------------------------------*/
 
 #experience .experience-img {
@@ -458,7 +458,7 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
-    Education section              
+    Education section
 -----------------------------------------*/
 
 #education {
@@ -486,7 +486,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   Quotes section              
+   Quotes section
 -----------------------------------------*/
 
 #quotes {
@@ -519,7 +519,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-    Contact section              
+    Contact section
 -----------------------------------------*/
 
 #contact {
@@ -588,7 +588,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   Footer section              
+   Footer section
 -----------------------------------------*/
 
 footer {
@@ -598,7 +598,7 @@ footer {
 
 
 /*---------------------------------------
-   Social icon             
+   Social icon
 -----------------------------------------*/
 
 .social-icon {
@@ -640,7 +640,7 @@ footer {
 
 
 /*---------------------------------------
-   Mobile Responsive         
+   Mobile Responsive
 -----------------------------------------*/
 
 @media only screen and (max-width: 580px) {
@@ -671,7 +671,7 @@ footer {
   }
 
   #home .container,
-  #about .container, 
+  #about .container,
   #experience .container,
   #service .container,
   #education .container,
