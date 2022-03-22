@@ -382,6 +382,13 @@ a:hover, a:active, a:focus {
    About section
 -----------------------------------------*/
 
+#about .col-md-6 {
+  background: #34282C;
+/* light blue color: #c3eafd; */
+  padding-right: 0;
+  padding-left: 0;
+}
+
 #about .about-img {
     background: url('../images/about-img.jpg') no-repeat;
 }
