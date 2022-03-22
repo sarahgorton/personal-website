@@ -6,3 +6,5 @@ myself and my abilities both on a personal level and on an educational level. </
 <p>I chose to host this page using my GitHub repository as this allowed for the opportunity 
 to gain a better understanding web development and the capabilities of GitHub. Post project 
 completion, my understanding of html, css, and GitHub increased significantly. </p>
+
+<p>https://sarahgorton.github.io/</p>
