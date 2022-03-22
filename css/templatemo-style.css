@@ -382,7 +382,7 @@ a:hover, a:active, a:focus {
    About section
 -----------------------------------------*/
 
-#about .col-md-6 {
+#about .col-md-6 col-sm-12 {
   background: #34282C;
 /* light blue color: #c3eafd; */
   padding-right: 0;
