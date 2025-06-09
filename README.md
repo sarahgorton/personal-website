@@ -7,4 +7,4 @@ myself and my abilities both on a personal level and on an educational level. </
 to gain a better understanding web development and the capabilities of GitHub. Post project 
 completion, my understanding of HTML, CSS, JavaScript, and GitHub increased significantly. </p>
 
-<p>https://sarahgorton.github.io/</p>
+<p>https://sarahgorton.github.io/personal-website/</p>
